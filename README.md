@@ -1,0 +1,2 @@
+# FIFA-19
+I have been a huge admirer of Football since my childhood. Initially, I used to watch live matches on television, and later I started to go and play football outdoors. With EA Sports releasing different versions of FIFA every year, it got me excited to know more about the statistics of each team and their players. I was curious to explore how each attribute of a player or team influenced other aspects of the game such as Ratings, Potential etc. Hence, I decided to perform a deep analysis on each of these factors.
